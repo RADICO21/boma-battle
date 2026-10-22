@@ -1,6 +1,6 @@
 # BOMA BATTLE — Rise of the Zambian Warriors
 
-A fast-paced, addictive 2D side-scrolling multiplayer arena shooter inspired by the accessible controls, jetpack movement, and chaotic combat of games like Mini Militia. Set in a fictional futuristic Zambia where elite warriors compete to defend their communities, secure strategic Boma outposts, and become legendary champions.
+A fast-paced, addictive 2D side-scrolling multiplayer arena shooter inspired by the accessible controls, jetpack movement, and chaotic combat . Set in a fictional futuristic Zambia where elite warriors compete to defend their communities, secure strategic Boma outposts, and become legendary champions.
 
 ---
 
