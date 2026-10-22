@@ -1,0 +1,6 @@
+{
+  "name": "Boma Battle: Rise of the Zambian Warriors",
+  "description": "Fast-paced 2D multiplayer jetpack arena shooter inspired by Mini Militia and set in futuristic Zambia with authentic heroes, varied weapons, and multiple game modes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
